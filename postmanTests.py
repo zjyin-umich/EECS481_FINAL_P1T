@@ -20,7 +20,11 @@ c = 0
 
 def postmansort(numericalData,size):
 
-    t1, t2, k, t, n = 1
+    t1 = 1 
+    t2 = 1 
+    k = 1 
+    t = 1 
+    n = 1
 
     for x in range(count):
         array1[x] = array[x]
