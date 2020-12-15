@@ -77,6 +77,7 @@ def postmansort(numericalData,size):
     print("sorted array POSTMN SRT")
     for i in range (0, count):
         print(array1[i])
+    return array1
 
 def swapTMPS( k , n):
     i = k 
